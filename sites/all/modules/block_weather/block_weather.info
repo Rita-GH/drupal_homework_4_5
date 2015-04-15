@@ -1,0 +1,12 @@
+name = Block_weather
+description = displays weather in Cherkasy
+package = drupal_homework
+version = VERSION
+core = 7.x
+
+configure = admin/structure/block_weather
+
+
+version = "7.34"
+project = "drupal"
+datestamp = "1416429488"
